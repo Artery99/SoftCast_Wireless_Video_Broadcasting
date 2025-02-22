@@ -4,7 +4,7 @@ This repository contains Python implementations of SoftCast encoding and decodin
 #Overview
 SoftCast is a wireless video transmission scheme that eliminates quantization and entropy coding, instead using linear transforms to encode video for efficient transmission. This project applies DCT-based encoding, Hadamard Transform, and inverse transforms to process YUV video frames.
 
-#Files and Their Functions
+# Files and Their Functions
 
 1️⃣ Softcast_encoder_3D_DCT.py
 Reads a YUV video file.
